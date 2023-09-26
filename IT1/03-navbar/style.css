@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(61, 58, 58);
+    padding: 10px;
+    display: flex;justify-content: space-evenly;
+}
+
+body{
+    margin: 0px;
+}
+
+.navbar a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: rgb(255, 123, 123);
+
+}
+
+
+.mainPageContainer{
+    display: flex;justify-content: space-evenly;
+    margin-left: 20%;
+    margin-top: 100px;
+
+}
+
+.naseSluzby{
+    background-color: black;
+    margin: 0%;
+    padding-bottom: 400px;
+    color: white;
+    text-align: center;
+    
+}
